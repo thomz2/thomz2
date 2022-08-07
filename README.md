@@ -1,5 +1,7 @@
 ### Good morning, i'm Thomaz Ângelo 😵
 
+<img align="right" height="190em" alt="pc-gif" src="https://bestanimations.com/media/computers/614012262funny-computer-animated-gif-16.gif">
+
 #### About Me:
 
 - 📖 Computer Science student at _Universidade Federal do Ceará_
