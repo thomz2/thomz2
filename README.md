@@ -1,4 +1,4 @@
-<img align="right" height="220em" alt="pc-gif" src="https://bestanimations.com/media/computers/614012262funny-computer-animated-gif-16.gif">
+<img align="right" height="235em" alt="pc-gif" src="https://bestanimations.com/media/computers/614012262funny-computer-animated-gif-16.gif">
 
 ### Good morning, i'm Thomaz Ângelo 😵
 
