@@ -1,6 +1,7 @@
-### Hi there 👋
+### Good morning
 
 - 📫 Email: thomaz2pinheiro@gmail.com
+- 💬 Ask me about *Python, C, C++, Java, Javascript*
 
 <div>
   <a href="https://github.com/thomz2">
