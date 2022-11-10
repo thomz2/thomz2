@@ -10,7 +10,7 @@
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
-- 💬 Ask me about: **Python, C, C++, Java, Javascript**
+- 💬 Ask me about: **Python, C, C++, Java, Javascript, OCaml**
 
 
 ##
