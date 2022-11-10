@@ -6,7 +6,7 @@
 
 - 📖 Computer Science student at _Universidade Federal do Ceará_
 
-- 💻 I'm currently working as university monitor  
+- 💻 I'm currently working on a university project 
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
