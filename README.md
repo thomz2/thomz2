@@ -6,7 +6,7 @@
 
 - 📖 Computer Science student at _Universidade Federal do Ceará_
 
-- 💻 I'm currently working on a university project 
+- 💻 I'm currently a CNPq scholarship
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
