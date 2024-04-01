@@ -12,9 +12,6 @@ Hi! I'm __Thomaz__, a developer passionate about coding and cloud computing. I l
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
-- 💬 Ask me about: **Laravel, Livewire, Alpine.JS, Tailwind and AWS**
-
-
 ##
   
 <div align="center" style="display: inline_block"><br>
