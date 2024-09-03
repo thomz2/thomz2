@@ -8,7 +8,7 @@ Hi! I'm __Thomaz__, a developer passionate about coding and cloud computing. I l
 
 - 📖 Computer Science student at _Universidade Federal do Ceará_
 
-- 💻 I'm currently a CRM estrategist on [Kyraly](https://kyraly.com/) and [WebGenie](https://webgenie.com.br/) co-founder
+- 💻 I'm currently a CRM strategist on [Kyraly](https://kyraly.com/) and [WebGenie](https://webgenie.com.br/) co-founder
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
