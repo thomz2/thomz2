@@ -6,9 +6,9 @@ Hi! I'm __Thomaz__, a developer passionate about coding and cloud computing. I l
 
 #### About Me:
 
-- 📖 Computer Science student at _Universidade Federal do Ceará_
+- 📖 Computer Science graduated at _Universidade Federal do Ceará_
 
-- 💻 I'm currently a CRM strategist on [Kyraly](https://kyraly.com/)
+- 💻 I'm currently unemployed
 
 - 📫 Email: thomaz2pinheiro@gmail.com
 
