@@ -2,7 +2,7 @@
 
 ### Good morning!
 
-Hi! I'm __Thomaz__, a developer passionate about coding and cloud computing. I love exploring new technologies that enhance app scalability and efficiency. Let's innovate together!
+Hi! I'm __Thomaz__, a developer passionate about game developing, ML and data engineering. I love exploring new technologies that enhance app scalability and efficiency. Let's innovate together!
 
 #### About Me:
 
